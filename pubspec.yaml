@@ -1,0 +1,28 @@
+name: mca_department_app
+description: A Flutter app for MCA department information and services.
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  webview_flutter: ^4.4.2
+  url_launcher: ^6.1.14
+  expandable: ^5.0.1
+  rating_dialog: ^2.0.0
+  flutter_rating_bar: ^4.0.1
+  provider: ^6.1.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/ 

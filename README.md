@@ -1,2 +1,16 @@
-# MP5
-App for MCA department using side and tabs navigation consisting of the following:  1)    Faculty information with Expandable Card view  2)    Department Vision and Mission with expandable Card view  3)    Notification of any upcoming event (links to the website).  4)    WebView   5)    Feedback form along with rating
+# mca_department_app
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
